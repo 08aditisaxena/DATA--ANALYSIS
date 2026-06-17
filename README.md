@@ -14,3 +14,5 @@ an interactive sales dashboard designed to turn raw online sales data into clear
 - Which Indian state generated the highest revenue (Sum of Amount) during Qtr 4, and which generated the lowest among the top 4 states?
 - According to the "Sum of Quantity by Category" donut chart, which product category dominates sales volume, and what is its exact share percentage?
 - Dashboardinteraction <a href= https://github.com/08aditisaxena/DATA--ANALYSIS/blob/main/Screenshot%202026-06-18%20010400.png>view Dashboard</a>
+## DASHBOARD 
+<img width="1313" height="732" alt="Screenshot 2026-06-18 010400" src="https://github.com/user-attachments/assets/8a5d54f3-bc79-4aa6-8404-0b9fa74d76e3" />
