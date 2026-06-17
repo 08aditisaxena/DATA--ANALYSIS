@@ -6,10 +6,11 @@ an interactive sales dashboard designed to turn raw online sales data into clear
 - <a href= https://github.com/08aditisaxena/DATA--ANALYSIS/commit/ccd061ab9dd16fc23a2ca3d8b69907bdf747d65e>Dataset</ a>
 - <a href= https://github.com/08aditisaxena/DATA--ANALYSIS/commit/ccd061ab9dd16fc23a2ca3d8b69907bdf747d65e>Dataset</  a>
 ## QUESTION 
-What are the total sales (Sum of Amount) and total items sold (Sum of Quantity) captured in this specific view?
-What is the Average Order Value (AOV) for the selected period?
-what is the overall profit margin percentage for this specific data view?
-Based on the "Profit by Month" chart, which month recorded the highest profit, and which month suffered a net loss?
-Who is the top-performing customer by revenue, and how does the spending compare between the top four customers (Lalita, Abhijeet, Abhishek, and Rohan)?
-Which Indian state generated the highest revenue (Sum of Amount) during Qtr 4, and which generated the lowest among the top 4 states?
-According to the "Sum of Quantity by Category" donut chart, which product category dominates sales volume, and what is its exact share percentage?
+- What are the total sales (Sum of Amount) and total items sold (Sum of Quantity) captured in this specific view?
+- What is the Average Order Value (AOV) for the selected period?
+- what is the overall profit margin percentage for this specific data view?
+- Based on the "Profit by Month" chart, which month recorded the highest profit, and which month suffered a net loss?
+- Who is the top-performing customer by revenue, and how does the spending compare between the top four customers (Lalita, Abhijeet, Abhishek, and Rohan)?
+- Which Indian state generated the highest revenue (Sum of Amount) during Qtr 4, and which generated the lowest among the top 4 states?
+- According to the "Sum of Quantity by Category" donut chart, which product category dominates sales volume, and what is its exact share percentage?
+- Dashboardinteraction <a href= https://github.com/08aditisaxena/DATA--ANALYSIS/blob/main/Screenshot%202026-06-18%20010400.png>view Dashboard</a>
